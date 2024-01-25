@@ -19,7 +19,7 @@
 
 
 
-#### Some 🔍 Details about my professional 💼 Life ####
+#### 🔍 Details about my professional 💼 Life ####
 
 | Year         | Role                                    | Organization                         | Location                              | Focus-Area | Details |
 |--------------|-----------------------------------------|--------------------------------------|---------------------------------------|------------|---------|
