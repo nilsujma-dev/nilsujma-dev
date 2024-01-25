@@ -16,3 +16,15 @@
 #### 📫 Connect with Me:
 - Personal Email: nils at nilsujma.io
 - Business Email: nilsu at checkpoint.com
+
+### Some 🔍 Details about my professional 💼 Life ###
+
+| Year         | Role                                    | Organization                         | Location          | Key Achievements |
+|--------------|-----------------------------------------|--------------------------------------|-------------------|------------------|
+| 2000 - 2007  | Sr. Security Engineer                   | WorldWideWAN GmbH                    | Germany           | Led Cyber Security Unit; focused on pre & post-sales technical consultancy and infrastructure planning; significant international project experience. |
+| 2007 - 2013  | Sr. Security Engineer                   | PMCS GmbH & Co.KG                    | Germany           | Cyber Security Unit Lead; focused on endpoint encryption, gateway, and perimeter security; extensive work with DAX-listed organizations and German Government agencies. |
+| 2013 - 2016  | Sr. Security Engineer                   | Intel Security                       | Frankfurt, Germany| Supported sales organization in security architecture design and planning; led NFV and Openstack-related security initiatives in the DACH region. |
+| 2016 - 2017  | Security Engineer                       | Check Point Software Technologies    | Cologne, Germany  | Technical lead for NFV and Openstack security initiatives in the DACH region; conceptualized a distinctive SaaS offering for email security. |
+| 2017 - 2020  | Security Solutions Architect (Cloud/Telco)| Check Point Software Technologies   | Singapore, Seoul, Metro Manila | Focused on Cloud Security, 5G, and SD-WAN technologies; principal technical contact for Openstack and SD-WAN projects in APAC and Europe. |
+| 2020 - 2021  | Lead Security Engineer/Architect        | TrendMicro                           | Germany           | Orchestrated technical business development for 5G Security; key contributor to 5G private cloud security solutions and global initiatives. |
+| 2021 - Present | Cloud Security Technology Leader APAC | Check Point Software Technologies    | Singapore         | Managing Cloud Security and Cloud Native Security Projects in APAC; leading the Cloud Security Architect Team towards technical growth and innovation. |
