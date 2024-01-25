@@ -17,7 +17,9 @@
 - Personal Email: nils at nilsujma.io
 - Business Email: nilsu at checkpoint.com
 
-### Some 🔍 Details about my professional 💼 Life ###
+
+
+#### Some 🔍 Details about my professional 💼 Life ####
 
 | Year         | Role                                    | Organization                         | Location          | Key Achievements |
 |--------------|-----------------------------------------|--------------------------------------|-------------------|------------------|
