@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @nilsujma-dev
+### 👋 Hi & Welcome @ my landing for nilsujma.io >>> I’m @nilsujma-dev
 
 #### 🌐 About Me:
 - **Global Citizen & Cultural Explorer:** Born and raised in a small town in Germany (Ohrdruf, Landkreis Gotha), my professional life has taken me across the the globe. During the last 7 years I am focussing on Asia-Pacific Region. My journey which started in South Korea, took me then to the Philippines and now to Singapore. This cultural journey, enriched by my Thai wife, shapes my global approach to cybersecurity challenges.
