@@ -21,6 +21,7 @@
 
 #### 🔍 Details about my professional 💼 Life ####
 
+
 | Year         | Role                                    | Organization                         | Location                              | Focus-Area | Details |
 |--------------|-----------------------------------------|--------------------------------------|---------------------------------------|------------|---------|
 | 2000 - 2007  | Sr. Security Engineer                   | WorldWideWAN GmbH                    | Germany                               | Worldwide  | Led Cyber Security Unit; focused on pre & post-sales technical consultancy and infrastructure planning; significant international project experience. |
