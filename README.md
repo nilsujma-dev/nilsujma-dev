@@ -16,7 +16,3 @@
 #### 📫 Connect with Me:
 - Personal Email: nils at nilsujma.io
 - Business Email: nilsu at checkpoint.com
-
----
-
-Feel free to personalize or modify any part of this profile to better match your personality and professional style. Remember, a GitHub profile is not just about your technical skills, but also about who you are as a person and a professional. This draft aims to blend both these aspects seamlessly.
