@@ -7,7 +7,7 @@
 - **Expertise in Evolution:** With over 2 Decades in cybersecurity, my experience ranges from securing legacy systems to pioneering in cloud-native architectures. My passion lies in solving complex security challenges and guiding clients, partners, and teams through the evolving landscape of digital security. 
 
 #### 🎙️ Beyond the Cyber World:
-- **Ham Radio Enthusiast:** I'm an avid Ham Radio operator with call signs 9V1AB (Singapore) and DL1MNU (Germany). I love operating on HF using digital modes such as FT8 but also do enjoy regular catch up's with friends by leveraging on "Brandmeister". Some time back I have build and established the Digital Radio network DB0LM in Limburg, Germany including operationalzing the DMR network in the region. 
+- **Ham Radio Enthusiast:** I'm an avid Ham Radio operator with call signs 9V1AB (Singapore) and DL1MNU (Germany). I love operating on HF using digital modes such as FT8 but also do enjoy regular catch up's with friends by leveraging on "Brandmeister". Some time back I have build and established the Digital Radio network DB0LM in Limburg, Germany including operationalzing the DMR network in the region. In Singapore my focus is predominately on shortwave communication (HF) by leveraging Digital modes, as mentioned FT8. 
 - **Endless Learner:** I am also fascinated by Quantum Physics and currently learning Thai. For the last I just completed 100 Hours of Lessons with my private Tutor. 
 
 #### 🌱 Currently Coding in Python
