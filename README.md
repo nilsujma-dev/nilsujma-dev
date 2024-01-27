@@ -15,7 +15,8 @@
 - Focusing on developing solutions, predominately for my work - in Python. I must admit that Coding was long time on the list of things I ever wanted to do, but usually (as always in life) many reasons why I could not continue with that. With the Rise of DevOps and Automation that has changed, which translates into direct professional impact with my growing coding skills. I achieved my first coding skills at the age of 10 by using KC/85 computers and doing coding in simple Basic. After that I've learned Java as part of my professional education. While shifting into Cyber Security at the age of 20, Coding wasn't required for a long time; so I started some time back to re-introduce it to myself by getting deeper into Python. This is, after all, still work in Progress. So don't worry when you see issues in my code or something which requires to be improved. Thats all part of the process.
 
 #### 🏠 Personal Life
-- I am married to my Thai wife and have 1 son from a previous marriage. I do enjoy travelling, good food, and I am a passionate Buddhist. 🧘‍♀️ Meditating and doing Merit 🙏 is an important part of my life and helps me to clear my mind from the hectical times in which we are in. Becoming a Budhist was certainly an important part of my life. My favorite temple is วัดผาน้ำทิพย์เทพประสิทธิ์วนาราม https://t.ly/kVNIE
+- I am married to my Thai wife and have 1 son from a previous marriage. I do enjoy travelling, good food, and I am a passionate Buddhist.
+- 🧘‍♀️ Meditating and doing Merit 🙏 is an important part of my life and helps me to clear my mind from the hectical times in which we are in. Becoming a Budhist was certainly an important part of my life. My favorite temple is วัดผาน้ำทิพย์เทพประสิทธิ์วนาราม https://t.ly/kVNIE
   
 #### 📫 Connect with Me:
 - Personal Email: nils at nilsujma.io
