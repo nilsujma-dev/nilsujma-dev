@@ -11,7 +11,7 @@
 - **Endless Learner:** I am also fascinated by Quantum Physics and currently learning Thai. For the last I just completed 100 Hours of Lessons with my private Tutor. 
 
 #### 🌱 Currently Coding in Python
-- Focusing on developing solutions, predominately for my work - in Python. 
+- Focusing on developing solutions, predominately for my work - in Python. I must admit that Coding was long time on the list of things I ever wanted to do, but usually (as always in life) many reasons why I could not continue with that. With the Rise of DevOps and Automation that has changed, which translates into direct professional impact with my growing coding skills. 
 
 #### 📫 Connect with Me:
 - Personal Email: nils at nilsujma.io
