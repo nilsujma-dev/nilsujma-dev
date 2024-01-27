@@ -16,7 +16,7 @@
 
 #### 🏠 Personal Life
 - I am married to my Thai wife and have 1 son from a previous marriage. I do enjoy travelling, good food, and I am a passionate Buddhist.
-- 🧘‍♀️ Meditating and doing Merit 🙏 is an important part of my life and helps me to clear my mind from the hectical times in which we are in. Becoming a Budhist was certainly an important part of my life. My favorite temple is วัดผาน้ำทิพย์เทพประสิทธิ์วนาราม https://t.ly/kVNIE
+- Meditating 🧘‍♀️ and doing Merit 🙏 is an important part of my life and helps me to clear my mind from the hectical times in which we are in. Becoming a Budhist was certainly an important part of my life. My favorite temple is วัดผาน้ำทิพย์เทพประสิทธิ์วนาราม https://t.ly/kVNIE
   
 #### 📫 Connect with Me:
 - Personal Email: nils at nilsujma.io
