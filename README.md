@@ -12,7 +12,12 @@
 - **Endless Learner:** I am also fascinated by Quantum Physics and currently learning Thai. For the last I just completed 100 Hours of Lessons with my private Tutor. 
 
 #### 🌱 Currently Coding in Python
-- Focusing on developing solutions, predominately for my work - in Python. I must admit that Coding was long time on the list of things I ever wanted to do, but usually (as always in life) many reasons why I could not continue with that. With the Rise of DevOps and Automation that has changed, which translates into direct professional impact with my growing coding skills. I achieved my first coding skills at the age of 10 by using KC/85 computers and doing coding in simple Basic. After that I've learned Java as part of my professional education. While shifting into Cyber Security at the age of 20, Coding wasn't required for a long time; so I started some time back to re-introduce it to myself by getting deeper into Python. This is, after all, still work in Progress. So don't worry when you see issues in my code or something which requires to be improved. Thats all part of the process.
+- **Focusing on developing solutions, predominately for my work** - in Python
+- I must admit that Coding was long time on the list of things I ever wanted to do, but usually (as always in life) many reasons why I could not continue with that.
+- **Rise of DevOps and Automation** has changed a lot, which translates into direct professional impact with my growing coding skills.
+- **First coding skills** at the age of 10 by using KC/85 computers and doing coding in simple Basic. After that I've learned Java as part of my professional education.
+- **Shifting into Cyber Security** at that time at the age of 20, Coding wasn't required for a long time; so I started some time back to re-introduce it to myself by getting deeper into Python.
+- **Finally Python - but still WIP** So don't worry when you see issues in my code or something which requires to be improved. 
 
 #### 🏠 Personal Life
 - I am married to my Thai wife and have 1 son from a previous marriage. I do enjoy travelling, good food, and I am a passionate Buddhist.
