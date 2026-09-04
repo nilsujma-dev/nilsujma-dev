@@ -13,12 +13,16 @@ years are consolidated and archived below.
 
 ## 🟢 Active
 
+🔒 = private repository.
+
 ### Zscaler
 
 | Repository | What it is |
 |---|---|
-| [zs-cloud-connector-terraform-base](https://github.com/nilsujma-dev/zs-cloud-connector-terraform-base) | Baseline Terraform for a single Cloud Connector deployment |
-| [zs-repo-template](https://github.com/nilsujma-dev/zs-repo-template) | 📋 Template for new `zs-*` repos — README skeleton, CI with secret sweep, runbook, PR template |
+| [zs-ot-ebc-dashboard](https://github.com/nilsujma-dev/zs-ot-ebc-dashboard) 🔒 | Operations dashboard for the IoT/OT Experience Center — one reconciled live view of ZIA, ZPA, ZDX, Zero Trust Branch, Deception and two PLCs. Stdlib-only Python, framework-free JS |
+| [zs-zpa-private-service-edge-lab](https://github.com/nilsujma-dev/zs-zpa-private-service-edge-lab) | Reproducible AWS lab for a ZPA Private Service Edge — two isolated VPCs, PRIV/MCU segmentation, unattended enrolment via SSM. OpenTofu + stdlib Python |
+| [zs-cloud-connector-terraform-base](https://github.com/nilsujma-dev/zs-cloud-connector-terraform-base) 🔒 | Baseline Terraform for a single Cloud Connector deployment |
+| [zs-repo-template](https://github.com/nilsujma-dev/zs-repo-template) 🔒 | 📋 Template for new `zs-*` repos — README skeleton, CI with secret sweep, runbook, PR template |
 
 > Start a new work repo with:
 > ```sh
@@ -31,15 +35,15 @@ years are consolidated and archived below.
 |---|---|
 | [daily-intel-briefing](https://github.com/nilsujma-dev/daily-intel-briefing) | Daily AI & cyber-security briefing by email — ten RSS feeds in, two ranked tables out. Pure stdlib Python |
 | [nilsujma.io](https://github.com/nilsujma-dev/nilsujma.io) | Personal site (Jekyll / GitHub Pages) |
-| [ham-aprs-igate](https://github.com/nilsujma-dev/ham-aprs-igate) | Network-layer diagnostics for APRS-IS igates that lack their own |
+| [ham-aprs-igate](https://github.com/nilsujma-dev/ham-aprs-igate) 🔒 | Network-layer diagnostics for APRS-IS igates that lack their own |
 | [ham-ygate](https://github.com/nilsujma-dev/ham-ygate) | Fork: turn a Yaesu APRS radio into an igate |
-| [tool-thai-text-translator](https://github.com/nilsujma-dev/tool-thai-text-translator) | Extract Thai words from text, translate, export to CSV |
-| [tool-xbox-usage-monitor](https://github.com/nilsujma-dev/tool-xbox-usage-monitor) | Track Xbox online time to CSV |
+| [tool-thai-text-translator](https://github.com/nilsujma-dev/tool-thai-text-translator) 🔒 | Extract Thai words from text, translate, export to CSV |
+| [tool-xbox-usage-monitor](https://github.com/nilsujma-dev/tool-xbox-usage-monitor) 🔒 | Track Xbox online time to CSV |
 
 ### Learning
 
-[learn-terraform-associate](https://github.com/nilsujma-dev/learn-terraform-associate) ·
-[learn-python-cs50](https://github.com/nilsujma-dev/learn-python-cs50) ·
+[learn-terraform-associate](https://github.com/nilsujma-dev/learn-terraform-associate) 🔒 ·
+[learn-python-cs50](https://github.com/nilsujma-dev/learn-python-cs50) 🔒 ·
 [learn-aws-beanstalk-sample](https://github.com/nilsujma-dev/learn-aws-beanstalk-sample)
 
 ---
