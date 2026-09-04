@@ -11,7 +11,7 @@ All repository names are **lowercase kebab-case**, shaped as:
 | Prefix | Meaning | Example |
 |---|---|---|
 | `zs-` | Zscaler work, 2025 onward | `zs-ot-ebc-dashboard` |
-| `cp-` | Check Point work, 2022–2024 — archived | `cp-cloudguard-ruleset-tools` |
+| `cp-` | Check Point era — archived (repos date from 2022–2024) | `cp-cloudguard-ruleset-tools` |
 | `cp-archive-` | Superseded by a consolidated `cp-` toolkit | `cp-archive-dome9-permissions` |
 | `ham-` | Amateur radio | `ham-aprs-igate` |
 | `tool-` | Small personal utilities | `tool-xbox-usage-monitor` |

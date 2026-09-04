@@ -1,7 +1,10 @@
 ### 👋 Hi, I'm Nils — `@nilsujma-dev`
 
-Security engineer working on **IoT/OT security at Zscaler**. Before that I spent
-2022–2024 at **Check Point**, mostly on CloudGuard (CSPM/CNAPP) and Spectral (code security).
+**Cyber Security & Transformation Architect at Zscaler.**
+
+Before that, 2016–2024 at **Check Point** — CloudGuard across private and public cloud,
+Code Security (Spectral), Container Security (CWPP), and security integrations for CI/CD
+pipelines.
 
 This account is split cleanly along that line: active work lives at the top, the Check Point
 years are consolidated and archived below.
@@ -41,11 +44,11 @@ years are consolidated and archived below.
 
 ---
 
-## 📦 Archive — Check Point, 2022–2024
+## 📦 Archive — Check Point
 
-All `cp-*` repositories are **archived and read-only**. Sixty-one scattered repos became six
-consolidated toolkits plus their standalone siblings; every original still exists as
-`cp-archive-*` with its history intact.
+All `cp-*` repositories are **archived and read-only**, spanning 2022–2024. Twenty duplicate
+repos were consolidated into six toolkits; every original still exists as `cp-archive-*` with
+its commit history intact.
 
 **Consolidated toolkits**
 
