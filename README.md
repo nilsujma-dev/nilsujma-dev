@@ -21,6 +21,7 @@ years are consolidated and archived below.
 |---|---|
 | [zs-ot-ebc-dashboard](https://github.com/nilsujma-dev/zs-ot-ebc-dashboard) 🔒 | Operations dashboard for the IoT/OT Experience Center — one reconciled live view of ZIA, ZPA, ZDX, Zero Trust Branch, Deception and two PLCs. Stdlib-only Python, framework-free JS |
 | [zs-zpa-private-service-edge-lab](https://github.com/nilsujma-dev/zs-zpa-private-service-edge-lab) | Reproducible AWS lab for a ZPA Private Service Edge — two isolated VPCs, PRIV/MCU segmentation, unattended enrolment via SSM. OpenTofu + stdlib Python |
+| [zs-lab-cloud-dashboard](https://github.com/nilsujma-dev/zs-lab-cloud-dashboard) | Switchboard — a cloud-lab control plane: plug in a provider, see what is running and what it costs, flip use cases on and off with a button. AWS first, GCP/Azure next. FastAPI + vanilla JS, OpenTofu-driven |
 | [zs-cloud-connector-terraform-base](https://github.com/nilsujma-dev/zs-cloud-connector-terraform-base) 🔒 | Baseline Terraform for a single Cloud Connector deployment |
 | [zs-repo-template](https://github.com/nilsujma-dev/zs-repo-template) 🔒 | 📋 Template for new `zs-*` repos — README skeleton, CI with secret sweep, runbook, PR template |
 
