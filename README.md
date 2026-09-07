@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Nils — `@nilsujma-dev`
 
-**Cyber Security & Transformation Architect at Zscaler.**
+**Cyber Security & global Transformation Architect at Zscaler.**
 
 Before that, 2016–2024 at **Check Point** — Cloud Security Tech Lead in APJ across private and public cloud,
 Code Security (Spectral), Container Security (CWPP), and security integrations for CI/CD
