@@ -2,7 +2,7 @@
 
 **Cyber Security & Transformation Architect at Zscaler.**
 
-Before that, 2016–2024 at **Check Point** — CloudGuard across private and public cloud,
+Before that, 2016–2024 at **Check Point** — Cloud Security Tech Lead in APJ across private and public cloud,
 Code Security (Spectral), Container Security (CWPP), and security integrations for CI/CD
 pipelines.
 
